@@ -1,0 +1,12 @@
+{
+  "name": "FileSizeOnPicker",
+  "description": "Pokazuje rozmiar pliku w selektorze plików Discorda.",
+  "authors": [
+    {
+      "name": "Resor",
+      "id": "0"
+    }
+  ],
+  "version": "1.0.0",
+  "main": "index.js"
+}
