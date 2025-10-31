@@ -1,12 +1,11 @@
 {
-  "name": "FileSizeOnPicker",
-  "description": "Pokazuje rozmiar pliku w selektorze plików Discorda.",
-  "authors": [
-    {
-      "name": "Resor",
-      "id": "0"
-    }
-  ],
-  "version": "1.0.2",
-  "main": "./index.js"
+"id": "com.resor.filesizeonpicker.revenge",
+"name": "FileSizeOnPicker (Revenge)",
+"description": "Shows file sizes in the attachment/file picker list (Revenge). Auto-detects picker component.",
+"version": "1.2.0",
+"author": "Resor",
+"revenge": {
+"main": "index.js",
+"icon": "ic_round_insert_drive_file_24px"
+}
 }
