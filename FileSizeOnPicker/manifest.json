@@ -5,7 +5,7 @@
 "version": "1.2.0",
 "author": "Resor",
 "revenge": {
-"main": "index.js",
+"main": "./index.js",
 "icon": "ic_round_insert_drive_file_24px"
 }
 }
