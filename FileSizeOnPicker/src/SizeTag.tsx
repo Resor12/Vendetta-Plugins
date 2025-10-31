@@ -1,4 +1,3 @@
-//import React, { useState, useEffect } from "react";
 import { React, ReactNative } from "@revenge/metro/common";
 import { formatBytes } from "./utils";
 import { General } from "@revenge/ui/components";
